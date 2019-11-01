@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/riverscapes/static/css/main.956532be.chunk.css",
+    "main.js": "/riverscapes/static/js/main.47c32e25.chunk.js",
+    "main.js.map": "/riverscapes/static/js/main.47c32e25.chunk.js.map",
+    "runtime-main.js": "/riverscapes/static/js/runtime-main.505dda9d.js",
+    "runtime-main.js.map": "/riverscapes/static/js/runtime-main.505dda9d.js.map",
+    "static/css/2.03e949ad.chunk.css": "/riverscapes/static/css/2.03e949ad.chunk.css",
+    "static/js/2.d63e9f41.chunk.js": "/riverscapes/static/js/2.d63e9f41.chunk.js",
+    "static/js/2.d63e9f41.chunk.js.map": "/riverscapes/static/js/2.d63e9f41.chunk.js.map",
+    "index.html": "/riverscapes/index.html",
+    "precache-manifest.5bcf3d571c560c9271cedfde68e0a4bb.js": "/riverscapes/precache-manifest.5bcf3d571c560c9271cedfde68e0a4bb.js",
+    "service-worker.js": "/riverscapes/service-worker.js",
+    "static/css/2.03e949ad.chunk.css.map": "/riverscapes/static/css/2.03e949ad.chunk.css.map",
+    "static/css/main.956532be.chunk.css.map": "/riverscapes/static/css/main.956532be.chunk.css.map",
+    "static/media/index.css": "/riverscapes/static/media/roboto-latin-900italic.bc833e72.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505dda9d.js",
+    "static/css/2.03e949ad.chunk.css",
+    "static/js/2.d63e9f41.chunk.js",
+    "static/css/main.956532be.chunk.css",
+    "static/js/main.47c32e25.chunk.js"
+  ]
+}
